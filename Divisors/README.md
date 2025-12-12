@@ -3,7 +3,7 @@ You are given an integer n. You need to find all the divisors of n. Return all t
 
 
 
-A number which completely divides another number is called it's divisor.
+A number which completely divides another number is called it's divisor
 
 
 Examples:
