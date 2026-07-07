@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Rajatha19/DSA/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Rajatha19/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
@@ -46,5 +47,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Rajatha19/DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
