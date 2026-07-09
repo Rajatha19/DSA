@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rajatha19/DSA/tree/main/0027-remove-element/) | Easy |
+| [0045-jump-game-ii](https://github.com/Rajatha19/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajatha19/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rajatha19/DSA/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajatha19/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Rajatha19/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajatha19/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rajatha19/DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajatha19/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Rajatha19/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Rajatha19/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajatha19/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
