@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Rajatha19/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rajatha19/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Rajatha19/DSA/tree/main/0577-employee-bonus/) | Easy |
+| [0620-not-boring-movies](https://github.com/Rajatha19/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Rajatha19/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/Rajatha19/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rajatha19/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
