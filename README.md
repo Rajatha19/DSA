@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0274-h-index](https://github.com/Rajatha19/DSA/tree/main/0274-h-index/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rajatha19/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rajatha19/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Rajatha19/DSA/tree/main/0274-h-index/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
