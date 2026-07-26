@@ -1,28 +1,9 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        import re
         s=s.lower()
-        s= ''.join(char for char in s if char.isalnum())
-        return s==s[::-1]  
-       
-       
-       
-'''
-        s = s.lower()
-        left,right=0,len(s)-1
-        while left <right:
-            while left<right and not s[left].isalnum():
-                left+=1
-            while left<right and not s[right].isalnum():
-                right-=1
-            if s[left]!=s[right]:
-                return False
-            left+=1
-            right-=1
-        return True
-        s=s.lower()
-        ans=""
-        for i in s:
-            if i.isalnum():
-                ans+=i
-        return ans==ans[::-1]
-        '''
+        a=re.sub(r'[^A-Za-z0-9]','',s)
+        return a==a[::-1]
+        
+
+        
