@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Rajatha19/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajatha19/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Rajatha19/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
 ## Math
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Rajatha19/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/Rajatha19/DSA/tree/main/0068-text-justification/) | Hard |
+| [0125-valid-palindrome](https://github.com/Rajatha19/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
