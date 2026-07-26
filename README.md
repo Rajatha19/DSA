@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Rajatha19/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rajatha19/DSA/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/Rajatha19/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Rajatha19/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rajatha19/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajatha19/DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Rajatha19/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rajatha19/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Rajatha19/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rajatha19/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -165,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Rajatha19/DSA/tree/main/0076-minimum-window-substring/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Rajatha19/DSA/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
