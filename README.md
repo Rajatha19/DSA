@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Rajatha19/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Rajatha19/DSA/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/Rajatha19/DSA/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Rajatha19/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajatha19/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajatha19/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Rajatha19/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rajatha19/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/Rajatha19/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rajatha19/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rajatha19/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -177,4 +179,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Rajatha19/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Rajatha19/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rajatha19/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rajatha19/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
