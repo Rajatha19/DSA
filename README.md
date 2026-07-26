@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Rajatha19/DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajatha19/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajatha19/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/Rajatha19/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Rajatha19/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/Rajatha19/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/Rajatha19/DSA/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/Rajatha19/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/Rajatha19/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
