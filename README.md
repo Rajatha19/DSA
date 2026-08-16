@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajatha19/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rajatha19/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0819-most-common-word](https://github.com/Rajatha19/DSA/tree/main/0819-most-common-word/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajatha19/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rajatha19/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0819-most-common-word](https://github.com/Rajatha19/DSA/tree/main/0819-most-common-word/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
+| [0819-most-common-word](https://github.com/Rajatha19/DSA/tree/main/0819-most-common-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Rajatha19/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatha19/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/Rajatha19/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0819-most-common-word](https://github.com/Rajatha19/DSA/tree/main/0819-most-common-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
