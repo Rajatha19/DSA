@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rajatha19/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Rajatha19/DSA/tree/main/0274-h-index/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajatha19/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Rajatha19/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rajatha19/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajatha19/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rajatha19/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Rajatha19/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Rajatha19/DSA/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Rajatha19/DSA/tree/main/0274-h-index/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajatha19/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Counting
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Rajatha19/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Rajatha19/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Rajatha19/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajatha19/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -178,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajatha19/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Rajatha19/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rajatha19/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rajatha19/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Rajatha19/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
